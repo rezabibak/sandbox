@@ -2,6 +2,18 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 18:47 IR
+- 🎬 [آموزش نصب آفلاین هر اسکریپتی روی سرور ایران + نصب X-UI.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%86%D8%B5%D8%A8%20%D8%A2%D9%81%D9%84%D8%A7%DB%8C%D9%86%20%D9%87%D8%B1%20%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA%DB%8C%20%D8%B1%D9%88%DB%8C%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%2B%20%D9%86%D8%B5%D8%A8%20X-UI.mp4) `54.0MB`
+
+- 🎬 [اتصال به دامنه و آیپی فیلتر با تانل های  DNS + اسکنر ｜ آموزش Slip Stream و DNSTT.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%A8%D9%87%20%D8%AF%D8%A7%D9%85%D9%86%D9%87%20%D9%88%20%D8%A2%DB%8C%D9%BE%DB%8C%20%D9%81%DB%8C%D9%84%D8%AA%D8%B1%20%D8%A8%D8%A7%20%D8%AA%D8%A7%D9%86%D9%84%20%D9%87%D8%A7%DB%8C%20%20DNS%20%2B%20%D8%A7%D8%B3%DA%A9%D9%86%D8%B1%20%EF%BD%9C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20Slip%20Stream%20%D9%88%20DNSTT.mp4) `40.2MB`
+
+- 🎬 [ساخت VPN رایگان با پنل Edge Tunnel بدون نیاز به سرور بر پایه CloudFlare🌤️.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%B3%D8%A7%D8%AE%D8%AA%20VPN%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%D8%A8%D8%A7%20%D9%BE%D9%86%D9%84%20Edge%20Tunnel%20%D8%A8%D8%AF%D9%88%D9%86%20%D9%86%DB%8C%D8%A7%D8%B2%20%D8%A8%D9%87%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A8%D8%B1%20%D9%BE%D8%A7%DB%8C%D9%87%20CloudFlare%F0%9F%8C%A4%EF%B8%8F.mp4) `28.5MB`
+
+- 🎬 [قبل از تانل زدن ببینید： آموزش تست ارتباط بین سرور ایران و خارج 😎.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D9%82%D8%A8%D9%84%20%D8%A7%D8%B2%20%D8%AA%D8%A7%D9%86%D9%84%20%D8%B2%D8%AF%D9%86%20%D8%A8%D8%A8%DB%8C%D9%86%DB%8C%D8%AF%EF%BC%9A%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D8%B3%D8%AA%20%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7%20%D8%A8%DB%8C%D9%86%20%D8%B3%D8%B1%D9%88%D8%B1%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D9%88%20%D8%AE%D8%A7%D8%B1%D8%AC%20%F0%9F%98%8E.mp4) `31.2MB`
+
+---
+
+
 ### 📅 2026-05-06 18:42 IR
 - 🎬 [آموزش ساخت کانفیگ به روش Netlify-XHHTP بدون دردسر.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B3%D8%A7%D8%AE%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20Netlify-XHHTP%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1.mp4) `19.2MB`
 
