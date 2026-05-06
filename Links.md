@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 18:19 IR
+- 🎬 [آموزش VayDNS و MasterDnsVPN حتی با ضعیف ترین ریزالورها🔥.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20VayDNS%20%D9%88%20MasterDnsVPN%20%D8%AD%D8%AA%DB%8C%20%D8%A8%D8%A7%20%D8%B6%D8%B9%DB%8C%D9%81%20%D8%AA%D8%B1%DB%8C%D9%86%20%D8%B1%DB%8C%D8%B2%D8%A7%D9%84%D9%88%D8%B1%D9%87%D8%A7%F0%9F%94%A5.mp4) `54.3MB`
+
+---
+
+
 ### 📅 2026-05-06 18:17 IR
 - 🎬 [آموزش تانل FRPulse مخصوص شرایط سخت ( نت ملی ).mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D8%A7%D9%86%D9%84%20FRPulse%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D8%B3%D8%AE%D8%AA%20%28%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%29.mp4) `33.7MB`
 
