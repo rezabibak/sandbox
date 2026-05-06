@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 18:17 IR
+- 🎬 [آموزش تانل FRPulse مخصوص شرایط سخت ( نت ملی ).mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D8%A7%D9%86%D9%84%20FRPulse%20%D9%85%D8%AE%D8%B5%D9%88%D8%B5%20%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7%20%D8%B3%D8%AE%D8%AA%20%28%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C%20%29.mp4) `33.7MB`
+
+---
+
+
 ### 📅 2026-04-27 20:24 IR
 - 🎬 [Scent of a Woman ｜ ＂I'll Show You Out of Order!＂.mp4](https://github.com/nscl5/sandbox/raw/main/dl/Scent%20of%20a%20Woman%20%EF%BD%9C%20%EF%BC%82I%27ll%20Show%20You%20Out%20of%20Order%21%EF%BC%82.mp4) `11.8MB`
 
