@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-06 18:42 IR
+- 🎬 [آموزش ساخت کانفیگ به روش Netlify-XHHTP بدون دردسر.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B3%D8%A7%D8%AE%D8%AA%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20Netlify-XHHTP%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%AF%D8%B1%D8%AF%D8%B3%D8%B1.mp4) `19.2MB`
+
+---
+
+
 ### 📅 2026-05-06 18:30 IR
 - 🎬 [VLESS Reverse, 3X-UI v2.9.4.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/VLESS%20Reverse%2C%203X-UI%20v2.9.4.mp4) `8.2MB`
 
