@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 20:42 IR
+- 🎬 [زنده کردن کانفیگ های پنل BPB با دامنه شخصی + آموزش آپدیت🕹️.mp4](https://github.com/rezabibak/sandbox/raw/main/dl/%D8%B2%D9%86%D8%AF%D9%87%20%DA%A9%D8%B1%D8%AF%D9%86%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D9%87%D8%A7%DB%8C%20%D9%BE%D9%86%D9%84%20BPB%20%D8%A8%D8%A7%20%D8%AF%D8%A7%D9%85%D9%86%D9%87%20%D8%B4%D8%AE%D8%B5%DB%8C%20%2B%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA%F0%9F%95%B9%EF%B8%8F.mp4) `13.4MB`
+
+---
+
+
 ### 📅 2026-05-07 16:27 IR
 - 📥 [index.html](https://github.com/rezabibak/sandbox/raw/main/dl/index.html) `9KB`
 
