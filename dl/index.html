@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Your Download is Ready - Telegram Downloader</title>
+    <meta name="robots" content="nofollow, noindex">
+    
+    <!-- PWA and Mobile Theme -->
+    <meta name="theme-color" content="#0077CC">
+    <link rel="manifest" href="../site.webmanifest">
+    
+    <!-- Favicons -->
+    <link rel="icon" href="../img/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" href="../img/favicon-192x192.png" sizes="192x192" />
+    <link rel="apple-touch-icon" href="../img/apple-touch-icon.png" />
+    <meta name="msapplication-TileImage" content="../img/favicon-192x192.png" />
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="../fonts.css">
+    <link rel="stylesheet" href="../style.css">
+    <style>
+        /* Lander-specific overrides */
+        body { display: flex; flex-direction: column; min-height: 100vh; padding-top: 0; } /* Remove padding-top for this page */
+        header { position: relative; } /* Override fixed position from main stylesheet */
+        .main-content { flex: 1; display: flex; justify-content: center; align-items: center; padding: 20px; }
+        .ts-lander-container { max-width: 700px; width: 100%; }
+        .ts-lander-container h1 { font-size: 24px; font-weight: 600; color: #212529; margin: 0 0 10px; text-align: center; }
+        .description { font-size: 16px; color: #6c757d; margin-bottom: 25px; line-height: 1.6; text-align: center; }
+        .ts-file-info { background-color: #f8f9fa; border-radius: 8px; padding: 15px; margin-bottom: 25px; text-align: left; border: 1px solid #e9ecef; }
+        .ts-file-info p { margin: 0 0 8px; font-size: 1.1em; color: #495057; text-align: left; }
+        .ts-file-info p:last-child { margin-bottom: 0; }
+        .ts-file-info strong { color: #212529; }
+        .ts-file-info .file-name { font-weight: 500; word-break: break-all; }
+        .ts-countdown-timer { font-size: 1.5em; font-weight: bold; color: #0077CC; margin: 30px 0; text-align: center; }
+        .ts-countdown-timer span { font-size: 2.5em; line-height: 1; }
+        .ts-lander-buttons { display: none; justify-content: center; gap: 15px; margin-top: 20px; flex-wrap: wrap; }
+        .ts-action-button { padding: 12px 25px; font-size: 1rem; }
+        .notice { font-size: 14px; color: #6c757d; margin-top: 30px; line-height: 1.6; text-align: center; }
+        @media (max-width: 600px) { header .logo { width: 220px; } .ts-lander-container { padding: 20px; } h1 { font-size: 20px; } .ts-lander-buttons { flex-direction: column; } .ts-action-button { width: 100%; box-sizing: border-box; } }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="container">
+            <a href="../">
+                <img src="../img/logo.png" alt="Telegram Downloader Logo" class="logo">
+            </a>
+            <nav class="desktop-nav">
+                <a href="../extension/">Extension</a>
+                <a href="https://whatsappdownloader.com/">Whatsapp Downloader</a>
+            </nav>
+            <button id="mobile-menu-toggle" class="mobile-menu-toggle" aria-label="Open menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </header>
+
+     <div id="mobile-menu" class="mobile-menu">
+        <a href="../extension/">Extension</a>
+        <a href="https://whatsappdownloader.com/">Whatsapp Downloader</a>
+    </div>
+
+    <div class="main-content">
+        <div class="ts-lander-container card">
+            <h1>Your Download is Ready</h1>
+            <p class="description">Please review the file information below. To protect our users and service, all download links are generated from public sources and will expire after a short period.</p>
+
+            <div class="ts-file-info">
+                <p><strong>File Name:</strong> <span id="file-name" class="file-name">Loading...</span></p>
+            </div>
+            
+            <div id="ts-timer-section" class="ts-countdown-timer">
+                Your download link will be ready in <span id="ts-countdown">10</span> seconds...
+            </div>
+            
+            <div id="ts-lander-buttons-wrapper" class="ts-lander-buttons">
+                 <a href="#" id="download-btn" target="_blank" download="" rel="nofollow noopener noreferrer" class="ts-action-button ts-download-link-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 13V4M7 14H5a1 1 0 0 0-1 1v4a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-4a1 1 0 0 0-1-1h-2m-1-5-4 5-4-5m9 8h.01"/></svg>
+                    Download File
+                </a>
+                <button type="button" id="copy-btn" class="ts-action-button ts-copy-link-button" data-link="">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linejoin="round" stroke-width="2" d="M9 8v3a1 1 0 0 1-1 1H5m11 4h2a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1h-7a1 1 0 0 0-1 1v1m4 3v10a1 1 0 0 1-1 1H6a1 1 0 0 1-1-1v-7.13a1 1 0 0 1 .24-.65L7.7 8.35A1 1 0 0 1 8.46 8H13a1 1 0 0 1 1 1Z"/></svg>
+                    Copy Link
+                </button>
+            </div>
+            <a href="https://www.coinex.com/register?refer_code=sw3kp&channel=Referral" target="_blank" rel="nofollow noopener noreferrer">
+    <img src="../img/coinex.webp" alt="Sign up on Crypto Exchange - No KYC Required" style="width: auto; height: auto; max-width: 300px; display: block; margin: auto; padding-top:10px;">
+</a>
+            <p class="notice"><strong>Notice</strong>: This is a technical service provider and is not responsible for the content of external files. By proceeding, you acknowledge you have verified the content's legality and safety.</p>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p><strong>Disclaimer</strong>: This tool is for personal use only. Users are responsible for ensuring they have the right to download any content and must respect copyright laws. This site is not affiliated with Telegram.</p>
+             <div class="footer-links">
+                <a href="../about/">About Us</a>
+                <a href="../contact/">Contact Us</a>
+                <a href="../privacy/">Privacy Policy</a>
+                <a href="../terms/">Terms of Service</a>
+             </div>
+            <p>© 2025 Telegramdownloader.net - All rights reserved.</p>
+        </div>
+    </footer>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const params = new URLSearchParams(window.location.search);
+        const fileUrl = params.get('file_url') ? atob(params.get('file_url')) : '';
+        const fileName = params.get('file_name') ? atob(params.get('file_name')) : 'download';
+
+        const fileNameEl = document.getElementById('file-name');
+        const downloadBtn = document.getElementById('download-btn');
+        const copyBtn = document.getElementById('copy-btn');
+        
+        if (!fileUrl) {
+            document.getElementById('ts-timer-section').innerHTML = 'Error: Invalid download link. Please go back and try again.';
+            return;
+        }
+
+        fileNameEl.textContent = fileName;
+        downloadBtn.href = fileUrl;
+        downloadBtn.download = fileName;
+        copyBtn.dataset.link = fileUrl;
+
+        let countdownElement = document.getElementById('ts-countdown');
+        let timerSection = document.getElementById('ts-timer-section');
+        let buttonsWrapper = document.getElementById('ts-lander-buttons-wrapper');
+        
+        let seconds = 10;
+        countdownElement.textContent = seconds;
+        let countdownInterval = setInterval(() => {
+            seconds--;
+            countdownElement.textContent = seconds;
+            if (seconds <= 0) {
+                clearInterval(countdownInterval);
+                timerSection.style.display = 'none';
+                buttonsWrapper.style.display = 'flex';
+            }
+        }, 1000);
+
+        const originalCopyText = copyBtn.innerHTML;
+        copyBtn.addEventListener('click', function() {
+            navigator.clipboard.writeText(this.dataset.link).then(() => {
+                copyBtn.innerHTML = 'Copied!';
+                copyBtn.disabled = true;
+                setTimeout(() => { 
+                    copyBtn.innerHTML = originalCopyText;
+                    copyBtn.disabled = false; 
+                }, 2500);
+            });
+        });
+
+        // Mobile menu logic (copied from main script for consistency)
+        const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+        const mobileMenu = document.getElementById('mobile-menu');
+        if (mobileMenuToggle && mobileMenu) {
+            mobileMenuToggle.addEventListener('click', () => {
+                mobileMenuToggle.classList.toggle('active');
+                mobileMenu.classList.toggle('active');
+                document.body.classList.toggle('mobile-menu-open');
+            });
+        }
+    });
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-9H3YFXPQK3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-9H3YFXPQK3');
+    </script>
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2360172415258795" crossorigin="anonymous"></script>
+</body>
+</html>
+
